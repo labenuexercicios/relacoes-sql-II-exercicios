@@ -7,8 +7,7 @@ A vantagem em estarmos utilizando o SQLite é que você não precisa deletar tod
 ## Diagrama
 É comum desenvolver diagramas para representar a modelagem do banco de dados, definindo visualmente todas as tabelas, colunas e relações para facilitar a leitura e entendimento do projeto.<br><br>
 Olha só um exemplo de modelagem visual do Labecommerce!<br><br>
-![Untitled (2)](https://user-images.githubusercontent.com/29845719/212983495-db985170-5bf3-4c86-a246-5f0c3e95fdae.png)
-
+![image](https://user-images.githubusercontent.com/29845719/212985053-38570c30-1dbe-46f8-9e8a-549a957f50c6.png)
 
 Você pode conferir como ele foi montado acessando o link:
 https://dbdiagram.io/d/63c6e8e5296d97641d7a4666
