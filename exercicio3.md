@@ -5,6 +5,6 @@ Ainda bem que você não deletou suas queries antigas, não é mesmo?<br><br>
 A vantagem em estarmos utilizando o SQLite é que você não precisa deletar todo o trabalho já feito, basta criar um novo arquivo .db e começar de novo por ele.
 
 ## Diagrama
-É comum desenvolver diagramas para representar a modelagem do banco de dados, definindo visualmente todas as tabelas, colunas e relações para facilitar a leitura e entendimento do projeto.<br>
+É comum desenvolver diagramas para representar a modelagem do banco de dados, definindo visualmente todas as tabelas, colunas e relações para facilitar a leitura e entendimento do projeto.<br><br>
 Olha só um exemplo de modelagem do Labecommerce no link abaixo!<br>
 https://dbdiagram.io/d/63c6e8e5296d97641d7a4666
