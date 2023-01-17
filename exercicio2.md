@@ -1,5 +1,5 @@
 # Exercício 2
-Com a tabela de relações criadas, podemos finalmente realizar compras no banco de dados!
+Com a tabela de relações criada podemos finalmente realizar compras no banco de dados!
 
 ## Inserção dos dados
 Popule sua tabela purchases_products simulando 3 compras de clientes.<br>
