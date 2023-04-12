@@ -15,6 +15,6 @@ Exemplo:
 - uma pessoa coloca 5 laranjas (p001) e 3 bananas (p002) no carrinho e confirma sua compra
 
 - a compra é registrada com id c001 na tabela purchases
-  - a seguir, cada item do carrinho é registrado na tabela purchases_products
-    - 5 laranjas são registradas na tabela purchases_products (c001, p001, 5)
-    - 3 bananas são registradas na tabela purchases_products (c001, p002, 3)
+- a seguir, cada item do carrinho é registrado na tabela purchases_products
+  - 5 laranjas são registradas na tabela purchases_products (c001, p001, 5)
+  - 3 bananas são registradas na tabela purchases_products (c001, p002, 3)
